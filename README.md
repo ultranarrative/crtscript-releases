@@ -6,7 +6,7 @@
 
 **The terminal for writing.**
 
-*Dan Rodriguez · [UltraNarrative](https://www.ultranarrative.com) · [ultranarrative.com/crtscript](https://www.ultranarrative.com/crtscript) · [dan@ultranarrative.com](mailto:dan@ultranarrative.com) · October 2026*
+*Dan Rodriguez · [UltraNarrative](https://www.ultranarrative.com) · [ultranarrative.com/crtscript](https://www.ultranarrative.com/crtscript) · [dan@ultranarrative.com](mailto:dan@ultranarrative.com) · [Leave a tip](https://ko-fi.com/danrsuarez) · October 2026*
 
 ---
 
@@ -30,8 +30,10 @@ These links always point to the newest version.
 
 **Windows:** if SmartScreen doesn't know the app yet, click More info, then Run anyway.
 
-## Support
+## Leave a tip
 
-CRTScript is free, with no account and no subscription. If it helps you write, [buy me a coffee](https://ko-fi.com/danrsuarez).
+<a href="https://ko-fi.com/danrsuarez"><img src="assets/tip.jpg" alt="Free to use. Fuelled by coffee. Leave a tip on Ko-fi." width="100%"></a>
+
+Hi, I'm Dan. I make CRTScript on my own, one late night at a time. It's free, with no account and no subscription, and it stays that way. If it helps you write, [leave a tip on Ko-fi](https://ko-fi.com/danrsuarez). You choose the amount, and every cup keeps the updates coming and the next tools on their way.
 
 Made by Dan Rodriguez at [UltraNarrative](https://ultranarrative.com). © 2026 UltraNarrative. All rights reserved.

@@ -1,8 +1,18 @@
+<p align="center">
+  <img src="assets/header.jpg" alt="CRTScript: The terminal for writing." width="100%">
+</p>
+
 # CRTScript
 
-**The terminal for writing.** A free writing app for prose, screenplays and code, with the glow of an old terminal. 100% offline and private. For macOS and Windows, in English and Spanish.
+**The terminal for writing.**
 
-This repository holds the installers only. More about the app at [ultranarrative.com/crtscript](https://ultranarrative.com/crtscript).
+*Dan Rodriguez · [UltraNarrative](https://www.ultranarrative.com) · [ultranarrative.com/crtscript](https://www.ultranarrative.com/crtscript) · [dan@ultranarrative.com](mailto:dan@ultranarrative.com) · October 2026*
+
+---
+
+A free writing app for prose, screenplays and code, with the glow of an old terminal. 100% offline and private. For macOS and Windows, in English and Spanish.
+
+This repository holds the installers only. More about the app at [ultranarrative.com/crtscript](https://www.ultranarrative.com/crtscript).
 
 ## Download
 
